@@ -28,7 +28,7 @@ Altere `seu_usuario` e `sua_senha` conforme sua configuração local.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/sergioj1123/Encurtador-de-URL.git
    cd seu-repo/encurtador
    ```
 
